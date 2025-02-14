@@ -1,0 +1,13 @@
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.vscode
+.DS_Store
+
+Makefile
+.travis.yml
+.pio
+.gcc-flags.json
+lib
+
